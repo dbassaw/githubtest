@@ -1,2 +1,2 @@
 # githubtest
-For paystack integrations
+For testing github
